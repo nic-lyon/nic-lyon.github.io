@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-populism
 venue: "Stanford University"
-date: "Winter Quarter 2020"
+date: 2019-01-06
+location: "Stanford, CA"
 ---
 
 Course Description:
