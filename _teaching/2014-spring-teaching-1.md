@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Populism and the Erosion of Democracy"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2020-populism
+venue: "Stanford University"
+date: Winter Quarter 2020
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course Description:
+"How does populism threaten democracy? Why should we worry about the rise of populism and other critiques of liberal democracy? Populism is not inherently anti-democratic, yet it often erodes democracy in practice. We will identify populism, and what makes it different from other ideologies. We will then examine why populism takes such different forms across the world, and compare several regional settings. Finally, we will see how populism spreads, and what, if anything, to do about it."
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Instructor: [Anna Grzymala-Busse](https://amgbusse.people.stanford.edu/)
