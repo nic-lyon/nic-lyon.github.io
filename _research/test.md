@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Under Construction"
 collection: publications
-permalink: /research/2009-10-01-paper-title-number-1
+permalink: /research/underconstruction
 excerpt: 'Under Construction'
 date: 2020-01-11
 venue: 'Under Construction'
 paperurl: 
 citation: 
 ---
-Come again soon. 
+
+
+Page under construction.
 
